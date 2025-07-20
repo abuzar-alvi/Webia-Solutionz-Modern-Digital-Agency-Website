@@ -9,7 +9,7 @@ Webia Solutionz is a professionally built Next.js website styled using pure CSS 
 This project represents a fully custom and original website built for a creative digital agency. The design emphasizes simplicity, professionalism, and real-world client needs — including portfolio previews, services, client testimonials, and a contact form.
 
 ## 🙌 Credit
-This project was originally developed by Ahad Ali.
+This project was originally developed by Ahad Ali (@ahadalireach).
 Modified and extended by @abuzar-alvi with layout adjustments, content additions, and structural improvements.
 
 ## ⚙️ Tech Stack
@@ -51,4 +51,4 @@ Modified and extended by @abuzar-alvi with layout adjustments, content additions
 
 ## 📄 License
 > This project is open source under the MIT License.
-Designed by Ahad Ali, refined by @abuzar-alvi.
+Designed by @ahadalireach, refined by @abuzar-alvi.
