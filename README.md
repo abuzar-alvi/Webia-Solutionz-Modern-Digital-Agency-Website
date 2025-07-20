@@ -1,35 +1,54 @@
-# Brainwave Landing Page
+# Webia Solutionz – Modern Digital Agency Website
 
-Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles.
+Webia Solutionz is a professionally built Next.js website styled using pure CSS and SCSS. It’s designed for modern digital agencies and showcases a strong focus on service presentation, portfolio display, and clean user experience.
 
 ## 📖 Overview
 
 ![Screenshot](./README-IMGS/preview.png)
 
-Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
+This project represents a fully custom and original website built for a creative digital agency. The design emphasizes simplicity, professionalism, and real-world client needs — including portfolio previews, services, client testimonials, and a contact form.
+
+## 🙌 Credit
+This project was originally developed by Ahad Ali.
+Modified and extended by @abuzar-alvi with layout adjustments, content additions, and structural improvements.
 
 ## ⚙️ Tech Stack
 
-- Vite
-- React.js
-- Tailwind CSS
+- React.js (with Next.js for routing & SSR)
+- CSS & SCSS (no external animation libraries)
+- Netlify (for deployment)
 
-## 🔋 Features
+## 🚀 Features
 
-**Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
+### 🖥 Hero Section
+- Modern intro with strong branding
+- Responsive layout with CTA and visuals
 
-**Parallax Animations**: Engaging effects triggered by mouse movement and scrolling
+### 🛠 Services We Offer
+- Six core service cards:
+    - Web Design
+    - Web Development
+    - Bug Fixing
+    - Web Tutoring
+    - SEO
+    - Programming
 
-**Complex UI Geometry**: Utilizes tailwindcss for intricate shapes like circular feature displays, grid lines, and side lines.
+### 🧠 Skills Section
+- Technologies listed with minimal icon-based layout:
+    - HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express.js, MongoDB, TypeScript, Web SEO
 
-**Latest UI Trends**: Incorporates modern design elements such as bento grids.
+### 📂 Portfolio (Latest Projects)
+- Nine showcased projects from different industries like:
+    - Marketing, Education, NFT, Medical, Real Estate, AI Tools
 
-**Cool Gradients**: Enhances visuals with stylish gradients using Tailwind CSS for cards, buttons, etc.
+### 💬 Client Testimonials
+- Short and sweet quotes from satisfied clients with avatars
 
-**Responsive**: Ensures seamless functionality and aesthetics across all devices
-
-and many more, including code architecture and reusability
+### 📞 Contact Section
+- Fully functional contact form
+- Company details including phone, email, and location
 
 
 ## 📄 License
-> This project is licensed under the MIT License.
+> This project is open source under the MIT License.
+Designed by Ahad Ali, refined by @abuzar-alvi.
